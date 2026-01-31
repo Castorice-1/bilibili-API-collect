@@ -1,9 +1,3 @@
-> 上游仓库[SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)由于某些原因已存档，本仓库也将同样归档并转为私有记录。
->
-> 主归档分支为: `master` 在2026年01月24~25日之间从上游同步未进行修改。
->
-> 附归档分支为: `main` 额外存档部分图片资源。
-
 <p align="center">
     <img src="./assets/img/logo.png" width="250" height="200" />
 </p>
@@ -27,7 +21,7 @@
 </p>
 <p align="center" class="trendshift">
   <a href="https://trendshift.io/repositories/3218" target="_blank">
-    <img src="./assets/img/trendshift_6RepoOfTheDay.svg" alt="Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/3218" alt="Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
   </a>
 </p>
 <h3 align="center">野生 API 文档</h3>
@@ -325,7 +319,7 @@ B站 API 采用 C/S 结构，大多数接口为 REST API 和 gRPC，少部分接
 
 你们的存在，让社区更美好
 
-[![contributors](./assets/img/contributors.svg)](https://github.com/SocialSisterYi/bilibili-API-collect/graphs/contributors)
+[![contributors](https://opencollective.com/bilibili-api-collect/contributors.svg?width=860&button=false)](https://github.com/SocialSisterYi/bilibili-API-collect/graphs/contributors)
 
 ## 📖相关协议基础
 
@@ -339,7 +333,7 @@ ProtoBuf 序列格式：[传送门](https://www.jianshu.com/p/a24c88c0526a)
 
 ## 💦交流
 
-<img src="./assets/img/45892418_SocialSisterYi.jpg" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/45892418" width="100" height="100" />
 
 ⚠注意：开源社群欢迎交流探讨，**拒绝**咨询、**不支持**合作，**黑产号**一经发现立即拉黑并举报相关 SRC
 
